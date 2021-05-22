@@ -50,7 +50,7 @@ provides a **won** scene if you are in luck.
 provides a **lost** scene in those unfortunate scenarios.
 
 <p align="center">
-  <img src="./Documentation/won.png" alt="picture" width="750">
+  <img src="./Documentation/lost.png" alt="picture" width="750">
 </p>
 
 ## Note
