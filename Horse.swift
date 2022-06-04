@@ -10,7 +10,7 @@ import SpriteKit
 class Horse: SKSpriteNode, Animal {
   
     var textureAtlas: SKTextureAtlas = SKTextureAtlas(named: "HorseRed")
-    var initialSize: CGSize = CGSize(width: 40, height: 40)
+    var initialSize: CGSize = CGSize(width: 45, height: 45)
     var animation: SKAction = SKAction()
     
     //initilization
