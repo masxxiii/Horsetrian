@@ -102,7 +102,7 @@ class Horse: SKSpriteNode, Animal {
             // By adding the emitter node to the player, the emitter moves
             // with the horse and emits new smoke wherever the horse is
             self.addChild(dotEmitter)
-            // However, the particles themselves should target the scene,
+            // The particles themselves should target the scene,
             // so they trail behind as the horse moves forward.
             dotEmitter.targetNode = self
         }
