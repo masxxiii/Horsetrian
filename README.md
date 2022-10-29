@@ -5,7 +5,7 @@
 
 Horestrain is an equestrian game of chance. It provides a thrilling experience
 for those who love to test their luck now and then. A great game to play with 
-your family & friends!
+your family & friends.
 
 * **Choose** out of three beautiful horses.
 * **Outcome** is truly random.
