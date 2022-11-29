@@ -8,7 +8,7 @@ for those who love to test their luck now and then. A great game to play with
 your family & friends.
 
 * **Choose** out of three beautiful horses.
-* **Outcome** is truly random.
+* **Outcome** of the game is truly random.
 * **Works** only in landscape mode.
 * **Includes** running animation for horses.
 * **Includes** icon set for iphone and ipad.
